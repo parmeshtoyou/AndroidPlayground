@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Learning"
 include(":app")
 include(":mylibrary")
+include(":evenodd")
